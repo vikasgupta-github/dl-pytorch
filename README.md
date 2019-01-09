@@ -16,9 +16,9 @@
 - [ ] Using Pretrained models
 - [ ] FineTuning Pretrained Models
 - [ ] Exporting models to different formats
-      * TFLite
-      * ONNX
-      * Others
+* TFLite
+* ONNX
+* Others
 
 ### RNNs
 - [ ] Intro to RNNs
