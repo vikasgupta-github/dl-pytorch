@@ -2,6 +2,6 @@
 
 ## Course Outline
 
-[ ] Intro to DL
-[ ] Intro to Keras
-[ ] Intro to PyTorch
+- [ ] Intro to DL
+- [ ] Intro to Keras
+- [ ] Intro to PyTorch
