@@ -2,6 +2,7 @@
 
 ## Course Outline
 
+
 ### CNNs
 - [ ] Intro to DL
 - [ ] Intro to Keras
